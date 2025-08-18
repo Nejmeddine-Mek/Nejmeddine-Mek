@@ -5,7 +5,13 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&cache_seconds=0&token=YOUR_TOKEN_HERE" height="150" alt="stats graph" />
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=0&token=YOUR_TOKEN_HERE)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=0&token=YOUR_TOKEN_HERE)
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=0&token=YOUR_TOKEN_HERE" height="150" alt="languages graph" />
