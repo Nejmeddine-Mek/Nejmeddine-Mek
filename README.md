@@ -4,15 +4,16 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&cache_seconds=0&token=YOUR_TOKEN_HERE" height="150" alt="stats graph" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&cache_seconds=0&token=YOUR_TOKEN_HERE" height="150" alt="languages graph" />
+</div>
 
 ---
 
 ### 🛠️ Languages & Tools
-
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
@@ -47,4 +48,5 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" />
   </a>
 </p>
+
 
