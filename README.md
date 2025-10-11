@@ -23,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42" height="42" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" width="42" height="42" alt="Premiere Pro"/>
 
 </p>
 
@@ -48,7 +49,3 @@
 ---
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nejmeddine-Mek/Nejmeddine-Mek/output/snake.svg" alt="Snake animation" />
-</div>
