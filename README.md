@@ -1,12 +1,16 @@
 <h1 align="center">✨ Nejmeddine-Mek ✨</h1>
-<h4 align="center">👨‍💻 Someone, I guess!<br>🎓 Student at ESI-Algiers<br><br>Motto: <em>Quality over quantity — dost thou agree?</em></h4>
+<h4 align="center">
+  👨‍💻 Someone, I guess!<br>
+  🎓 Student at ESI-Algiers<br><br>
+  Motto: <em>Quality over quantity — dost thou agree?</em>
+</h4>
 
 ---
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-stats-rosy.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-stats-rosy.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-stats-rosy.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-stats-rosy.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -41,7 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
-
-<br clear="both">
