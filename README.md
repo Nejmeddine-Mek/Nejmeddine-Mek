@@ -9,8 +9,11 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-stats-rosy.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-rosy.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="Top Languages" />
+<div align="center">
+  [![GitHub stats](https://gh-stats.vercel.app/api?username=Nejmeddine-Mek)](https://github.com/Nejmeddine-Mek)
+  [![Top Languages](https://gh-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6)](https://github.com/Nejmeddine-Mek)
+</div>
+
 </div>
 
 ---
