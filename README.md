@@ -8,14 +8,13 @@
 ---
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Nejmeddine-Mek" target="_blank">
-    <img src="https://gh-stats.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Nejmeddine-Mek" target="_blank">
-    <img src="https://gh-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="Top Languages" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=kingofdead6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingofdead6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
+
+###
+
+<img align="right" height="150" weight="300" src="https://media.giphy.com/media/fyRjICUy5UZA4/giphy.gif?cid=790b7611kr7k44vvxxdmopnhlnphctic0jzjgrjyzshnoc94&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ---
 
@@ -23,18 +22,26 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="42" height="42" alt="Assembly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/icons/javafx/javafx-original.svg" width="42" height="42" alt="JavaFX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
   <img src="https://logo.svgcdn.com/simple-icons/scilab-dark.svg" width="42" height="42" alt="Scilab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" height="42" alt="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="42" height="42" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="42" height="42" alt="Premiere Pro"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" width="42" height="42" alt="Cisco"/>
+  <img src="https://img.icons8.com/color/256/scene-builder.png" width="42" height="42" alt="Scene Builder"/>
 </p>
 
 ---
