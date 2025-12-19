@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="42" height="42" alt="Photoshop"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="42" height="42" alt="Premiere Pro"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" width="42" height="42" alt="Cisco"/>
-  <img src="https://img.icons8.com/color/256/scene-builder.png" width="42" height="42" alt="Scene Builder"/>
+
 </p>
 
 ---
