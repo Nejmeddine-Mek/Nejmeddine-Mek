@@ -1,4 +1,4 @@
-<h1 align="center">✨ Nejmeddine-Mek ✨</h1>
+<h1 align="center"> Nejmeddine-Mek </h1>
 <h4 align="center">
   👨‍💻 Someone, I guess!<br>
   🎓 Student at ESI-Algiers<br><br>
