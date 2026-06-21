@@ -1,59 +1,63 @@
-<h1 align="center"> Nejmeddine-Mek </h1>
+<h1 align="center"> Hi there, I'm Nejem Eddine 👋 </h1>
 <h4 align="center">
-  👨‍💻 Someone, I guess!<br>
-  🎓 Student at ESI-Algiers<br><br>
-  Motto: <em>Quality over quantity — dost thou agree?</em>
+  👨‍💻 Computer Science & Engineering Student at ESI-Algiers<br>
+  ⚡ Passionate about Systems Architecture, Low-Level Engineering, and Clean Software Design.<br><br>
+  <em>"Quality over quantity — dost thou agree?"</em>
 </h4>
 
 ---
 
+### 📊 GitHub Activity & Insights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nejmeddine-Mek&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
 </div>
-
-
-###
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
-  <img src="https://logo.svgcdn.com/simple-icons/scilab-dark.svg" width="42" height="42" alt="Scilab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="42" height="42" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="42" height="42" alt="Prisma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="42" height="42" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="42" height="42" alt="Premiere Pro"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" width="42" height="42" alt="Cisco"/>
-
-</p>
+<table>
+  <tr>
+    <td align="left" width="33%">
+      <strong>Core Languages</strong>
+      <br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+    </td>
+    <td align="left" width="33%">
+      <strong>Backend & Databases</strong>
+      <br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    </td>
+    <td align="left" width="33%">
+      <strong>Systems & Infrastructure</strong>
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Cisco-175BA0?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://www.instagram.com/s4.hall/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
   <a href="https://leetcode.com/u/NejemEddine/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/Nejmeddine-Mek" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/s4.hall/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
