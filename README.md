@@ -1,13 +1,12 @@
-<h1 align="center"> Hi there, I'm Nejem Eddine 👋 </h1>
+<h1 align="center"> Hi there, I'm Nejem Eddine </h1>
 <h4 align="center">
-  👨‍💻 Computer Science & Engineering Student at ESI-Algiers<br>
-  ⚡ Passionate about Systems Architecture, Low-Level Engineering, and Clean Software Design.<br><br>
+  Computer Science & Engineering Student at ESI-Algiers<br>
+  Passionate about Systems Architecture, Low-Level Engineering, and Clean Software Design.<br><br>
   <em>"Quality over quantity — dost thou agree?"</em>
 </h4>
 
 ---
-
-### 📊 GitHub Activity & Insights
+###  GitHub Activity & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nejmeddine-Mek&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=1800" height="160" alt="GitHub Stats" />
@@ -16,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <table>
   <tr>
@@ -24,9 +23,11 @@
       <strong>Core Languages</strong>
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
     </td>
     <td align="left" width="33%">
       <strong>Backend & Databases</strong>
@@ -48,7 +49,7 @@
 
 ---
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 <div align="center">
   <a href="https://leetcode.com/u/NejemEddine/" target="_blank">
